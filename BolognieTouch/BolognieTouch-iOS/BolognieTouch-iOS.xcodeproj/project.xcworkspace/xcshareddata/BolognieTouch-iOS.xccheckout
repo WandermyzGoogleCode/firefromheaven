@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B9CA5791-8ED7-4E76-99A5-05661105974C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BolognieTouch-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E03AC9A778C725A634D313339BF584AC64E1DE6C</key>
+		<string>https://code.google.com/p/firefromheaven/</string>
+		<key>E4979B9473491AD87693503D5E8FB0A53DD3ACC9</key>
+		<string>https://github.com/mongodb/mongo-c-driver.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BolognieTouch/BolognieTouch-iOS/BolognieTouch-iOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E03AC9A778C725A634D313339BF584AC64E1DE6C</key>
+		<string>../../../..</string>
+		<key>E4979B9473491AD87693503D5E8FB0A53DD3ACC9</key>
+		<string>../../../..BolognieTouch/Library/mongo-c-driver/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://code.google.com/p/firefromheaven/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E03AC9A778C725A634D313339BF584AC64E1DE6C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E03AC9A778C725A634D313339BF584AC64E1DE6C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>firefromheaven</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4979B9473491AD87693503D5E8FB0A53DD3ACC9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mongo-c-driver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
